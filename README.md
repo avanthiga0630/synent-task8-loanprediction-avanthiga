@@ -41,7 +41,7 @@ The main objective is to build and evaluate Machine Learning models to predict l
 
 * `Loan_Approval_Prediction.ipynb` — Jupyter Notebook containing the project implementation.
 * `loan_approval_model.pkl` — Saved Machine Learning model.
-* `train_u6lujuX_CVtuZ9i.csv` — Dataset used for training and evaluation.
+* `Loan_Prediction.csv` — Dataset used for training and evaluation.
 
 **Note:** The dataset filename listed above is an example. Replace it with the actual CSV filename in this repository.
 
